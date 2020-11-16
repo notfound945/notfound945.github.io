@@ -8,8 +8,9 @@
 + 项目展示
 
   ![demo-1.png](https://ws1.sinaimg.cn/large/007eYQjmgy1gkr86h80q6j311y0idt8u.jpg)
+  
+  ![demo-2.png](http://ww1.sinaimg.cn/large/007eYQjmgy1gkr892gpcnj311y0ibt9a.jpg)
 
 # 致谢
 
-+ ![Quasar Framework](https://github.com/quasarframework)
-
++ [Quasar Framework](https://github.com/quasarframework)
