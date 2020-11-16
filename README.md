@@ -7,7 +7,7 @@
 
 + 项目展示
   
-  ![样例一](http://ww1.sinaimg.cn/large/007eYQjmgy1gkr8nf95k6j311y0iawel.jpg)
+  ![样例一](http://ww1.sinaimg.cn/large/007eYQjmgy1gkrbftmzxzj311y0i5q33.jpg)
   
   ![样例二](http://ww1.sinaimg.cn/large/007eYQjmgy1gkr892gpcnj311y0ibt9a.jpg)
 
