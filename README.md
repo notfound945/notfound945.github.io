@@ -6,10 +6,10 @@
   本项目是自己通过Vue框架写的自用导航页面。
 
 + 项目展示
-
-  ![样例一](http://ww1.sinaimg.cn/large/007eYQjmgy1gkr8adxupaj311y0idt8u.jpg)
   
-  ![样例二](http://ww1.sinaimg.cn/large/007eYQjmgy1gkr8nf95k6j311y0iawel.jpg)
+  ![样例一](http://ww1.sinaimg.cn/large/007eYQjmgy1gkr8nf95k6j311y0iawel.jpg)
+  
+  ![样例二](http://ww1.sinaimg.cn/large/007eYQjmgy1gkr892gpcnj311y0ibt9a.jpg)
 
 + 告知事项
   
