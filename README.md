@@ -13,6 +13,7 @@
 
 # 致谢
 
-+ [Quasar Framework](https://github.com/quasarframework)
-+ 感谢 [5iux](https://github.com/5iux/5iux.github.io) 收集的iconfont
++ 感谢 [Quasar Framework](https://github.com/quasarframework) 开发如此美观易用的VUE框架
++ 感谢 [Quasar Framework 中文网](http://www.quasarchs.com/) 提供的中文翻译
++ 感谢 [5iux](https://github.com/5iux/5iux.github.io) 收集的 iconfont
 + 感谢 [sou](https://github.com/5iux/sou) 提供的界面参考
