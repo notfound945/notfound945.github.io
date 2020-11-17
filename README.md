@@ -23,7 +23,7 @@
   
 + 项目地址
 
-  [notfound945.github.io](https://github.com/notfound945/notfound945.github.io)
+  [notfound945.github.io](https://notfound945.github.io/)
   
 + 源码下载
 
