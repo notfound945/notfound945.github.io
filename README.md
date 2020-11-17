@@ -3,6 +3,7 @@
 ![License](https://img.shields.io/github/license/notfound945/notfound945.github.io)
 ![Size](https://img.shields.io/github/repo-size/notfound945/notfound945.github.io)
 ![Last Commit](https://img.shields.io/github/last-commit/notfound945/notfound945.github.io)
+![Download](https://img.shields.io/github/downloads/notfound945/notfound945.github.io/total)
 
 
 ## 项目概述
@@ -19,7 +20,11 @@
   
 + 项目地址
 
-  [Notfound945.github.io](https://github.com/notfound945/notfound945.github.io)
+  [notfound945.github.io](https://github.com/notfound945/notfound945.github.io)
+  
++ 源码下载
+
+  [Releases](https://github.com/notfound945/notfound945.github.io/releases/)
 
 + 告知事项
   
