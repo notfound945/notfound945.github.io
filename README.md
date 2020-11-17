@@ -1,6 +1,8 @@
 # Notfound945 Search
 
+![Watch](https://img.shields.io/badge/Watch-0-lightgrey?style=flat-square&logo=appveyor)
 ![Star](https://img.shields.io/badge/Star-0-green?style=flat-square&logo=appveyor)
+![Fork](?style=flat-square&logo=appveyor?style=flat-square&logo=appveyor)
 
 
 ## 项目概述
@@ -33,3 +35,4 @@
 + 感谢 [5iux](https://github.com/5iux/5iux.github.io) 收集的 iconfont
 + 感谢 [sou](https://github.com/5iux/sou) 提供的界面参考
 + 感谢 [新浪微博图床](https://chrome.google.com/webstore/detail/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/fdfdnfpdplfbbnemmmoklbfjbhecpnhf) 提供的图床
++ 感谢 [Shields.is](https://shields.io/) 提供的彩签
