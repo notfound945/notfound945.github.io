@@ -1,4 +1,4 @@
-# Notfound945 Search
+# Notfound945 Search Navigation
 
 ![License](https://img.shields.io/github/license/notfound945/notfound945.github.io)
 ![Size](https://img.shields.io/github/repo-size/notfound945/notfound945.github.io)
