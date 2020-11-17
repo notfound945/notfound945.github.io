@@ -1,5 +1,7 @@
 # Notfound945 Search
 
+![Star](https://img.shields.io/badge/Star-0-green?style=flat-square&logo=appveyor)
+
 
 ## 项目概述
 
