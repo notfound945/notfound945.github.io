@@ -1,9 +1,7 @@
 # Notfound945 Search
 
+![License](https://img.shields.io/github/license/notfound945/notfound945.github.io)
 ![Size](https://img.shields.io/github/repo-size/notfound945/notfound945.github.io)
-![Watch](https://img.shields.io/badge/Watch-0-lightgrey?style=flat-square&logo=appveyor)
-![Star](https://img.shields.io/badge/Star-0-green?style=flat-square&logo=appveyor)
-![Fork](https://img.shields.io/badge/Flok-0-yellowgreen?style=flat-square&logo=appveyor)
 
 
 ## 项目概述
